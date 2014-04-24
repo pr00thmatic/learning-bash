@@ -1,3 +1,0 @@
-DIRECTORY = "testing"
-if [ -d "$DIRECTORY" ]
-    echo "$DIRECTORY" " exists! :D";
