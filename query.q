@@ -1,6 +1,3 @@
 replasing all the content ·o·
 adding some content ·o·
-some line
-another line
 content content content
-will you play with querys? :D
